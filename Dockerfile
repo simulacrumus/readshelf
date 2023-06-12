@@ -15,12 +15,12 @@ CMD ["node","index.js"]
 FROM node:18 AS build
 WORKDIR /build
 
-COPY package.json package.json
-COPY package-lock.json package-lock.json
+COPY client/package.json package.json
+COPY client/package-lock.json package-lock.json
 RUN npm ci
 
-COPY public/ public
-COPY src/ src
+COPY client/public/ public
+COPY client/src/ src
 RUN npm run build
 
 FROM httpd:alpine
