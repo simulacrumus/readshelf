@@ -2,8 +2,8 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://readshelf-web.herokuapp.com/">
-    <img src="https://readshelf-web.herokuapp.com/logo128.png" alt="Logo" width="80" height="80">
+  <a href="https://emrahkinay.com/apps/readshelf">
+    <img src="https://emrahkinay.com/apps/readshelf/logo128.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Read Shelf</h3>
   <p align="center">Find Your Next Favorite Read</p>
@@ -15,7 +15,7 @@ ReadShelf helps you organize your readings, find new books, save books to your w
 
 ReadSheld is a MERN Stack project. I have developed ReadShelf from scratch to improve my React.js and NodeJS skills. There are still some issues and I will continue to contribute to the project.
 
-Plese visit the deployed version of the project on Heroku [https://readshelf-web.herokuapp.com](https://readshelf-web.herokuapp.com).
+Plese visit the deployed version of the project on my website [https://readshelf-web.herokuapp.com](https://emrahkinay.com/apps/readshelf).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +99,7 @@ Emrah Kinay - [@emrahkinay](https://www.linkedin.com/in/emrahkinay/)
 
 Project Link: [https://github.com/simulacrumus/readshelf](https://github.com/simulacrumus/readshelf)
 
-Heroku Link: [https://readshelf-web.herokuapp.com](https://readshelf-web.herokuapp.com)
+Demo Link: [https://emrahkinay.com/apps/readshelf](https://emrahkinay.com/apps/readshelf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
