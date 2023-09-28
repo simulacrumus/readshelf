@@ -15,7 +15,8 @@ ReadShelf helps you organize your readings, find new books, save books to your w
 
 ReadSheld is a MERN Stack project. I have developed ReadShelf from scratch to improve my React.js and NodeJS skills. There are still some issues and I will continue to contribute to the project.
 
-Plese visit the deployed version of the project on my website [https://readshelf-web.herokuapp.com](https://emrahkinay.com/apps/readshelf).
+Plese visit the deployed version of the project on my website [https://emrahkinay.com/apps/readshelf
+](https://emrahkinay.com/apps/readshelf).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
